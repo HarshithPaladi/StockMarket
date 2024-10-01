@@ -10,10 +10,14 @@ export const StockList = () => {
       <h2>Stock List</h2>
 
       <ul className="flex-column gap-1">
-        {stocks.map((stock) => (
-          <StockListItem key={stock.id} stock={stock}>
-          </StockListItem>
-        ))}
+        {stocks.length === 0 ? (
+          <p>No stocks available</p>
+        ) : (
+          stocks.map((stock) => (
+            <StockListItem key={stock.id} stock={stock}>
+            </StockListItem>
+          ))
+        )}
       </ul>
     </div>
   );
