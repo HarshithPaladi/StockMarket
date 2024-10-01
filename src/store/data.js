@@ -78,5 +78,75 @@ export const STOCK_LIST = [
         id: 16,
         name: 'Oracle Corporation',
         price: 88.75,
+    },
+    {
+        id: 17,
+        name: 'IBM',
+        price: 142.30,
+    },
+    {
+        id: 18,
+        name: 'Twitter, Inc.',
+        price: 65.97,
+    },
+    {
+        id: 19,
+        name: 'Snap Inc.',
+        price: 75.11,
+    },
+    {
+        id: 20,
+        name: 'Uber Technologies, Inc.',
+        price: 44.15,
+    },
+    {
+        id: 21,
+        name: 'Lyft, Inc.',
+        price: 53.21,
+    },
+    {
+        id: 22,
+        name: 'Spotify Technology S.A.',
+        price: 242.11,
+    },
+    {
+        id: 23,
+        name: 'Shopify Inc.',
+        price: 1540.00,
+    },
+    {
+        id: 24,
+        name: 'Square, Inc.',
+        price: 247.26,
+    },
+    {
+        id: 25,
+        name: 'Zoom Video Communications, Inc.',
+        price: 289.50,
+    },
+    {
+        id: 26,
+        name: 'Pinterest, Inc.',
+        price: 58.44,
+    },
+    {
+        id: 27,
+        name: 'Palantir Technologies Inc.',
+        price: 25.31,
+    },
+    {
+        id: 28,
+        name: 'Roku, Inc.',
+        price: 325.12,
+    },
+    {
+        id: 29,
+        name: 'DocuSign, Inc.',
+        price: 310.05,
+    },
+    {
+        id: 30,
+        name: 'Snowflake Inc.',
+        price: 240.00,
     }
 ]
