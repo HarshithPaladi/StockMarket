@@ -22,7 +22,7 @@ export const STOCK_LIST = [
     {
         id: 5,
         name: 'Facebook, Inc.',
-        price: 355.64,
+        price: 365.00,
     },
     {
         id: 6,
