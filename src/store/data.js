@@ -1,7 +1,7 @@
 export const STOCK_LIST = [
     {
         id: 1,
-        name: 'Mango',
+        name: 'Apple Inc.',
         price: 145.83,
     },
     {
